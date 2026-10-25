@@ -16,7 +16,7 @@ const FALLBACK_APPS: AppMeta[] = [
     category: "Tools",
     short_description: "Deep scan internal phone memory & SD cards to recover deleted photos, videos, and media without root.",
     icon_url: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=150&auto=format&fit=crop&q=80",
-    apk_url: "/downloads/photo-recovery.apk",
+    apk_url: "https://github.com/adityakqumar/android-apps/releases/download/v1.0.0/app-debug.apk",
   },
   {
     id: "app-1",

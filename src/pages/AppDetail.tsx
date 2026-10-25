@@ -58,7 +58,7 @@ export default function AppDetail() {
                 short_description: "Deep scan internal phone memory & SD cards to recover deleted photos, videos, and media without root.",
                 description: `DeepScan Photo & File Recovery is an advanced native Android recovery tool designed to deeply scan your phone's internal storage partitions and micro-SD cards to detect, extract, and recover accidentally deleted photos, images, and media files.\n\nKey Highlights & Capabilities:\n• Deep Internal & SD Card Scan: Uses raw sector parsing to recover deleted JPEG, PNG, WEBP, GIF, and RAW camera formats.\n• No Root Required: Safe and non-invasive. Recovers deleted files and cached thumbnails directly on any unrooted Android device.\n• High-Definition Preview: Preview all recoverable images in full resolution before saving them back to your gallery.\n• 100% Free & Private: Runs completely on-device. Zero background tracking, zero cloud uploads, and no subscriptions or paywalls.\n• One-Click Restore: Restores selected photos directly back into your phone's DCIM or Pictures gallery album.\n• Fast & Lightweight: Compact 6.5 MB APK footprint, optimized for all Android devices from Android 7.0 up to Android 14+.`,
                 icon_url: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=200&auto=format&fit=crop&q=80",
-                apk_url: "/downloads/photo-recovery.apk",
+                apk_url: "https://github.com/adityakqumar/android-apps/releases/download/v1.0.0/app-debug.apk",
                 screenshots: [
                   "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&auto=format&fit=crop&q=80",
                   "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=600&auto=format&fit=crop&q=80",
